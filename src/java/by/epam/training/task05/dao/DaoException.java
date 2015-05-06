@@ -1,0 +1,24 @@
+package by.epam.training.task05.dao;
+
+/**
+ * Created by higgs on 03.05.15.
+ */
+public class DaoException extends Exception {
+
+    public DaoException() {
+        super();
+    }
+
+    public DaoException(String message) {
+        super(message);
+    }
+
+    public DaoException(String message, Throwable cause) {
+        super(message, cause);
+    }
+
+    public DaoException(Throwable cause) {
+        super(cause);
+    }
+
+}

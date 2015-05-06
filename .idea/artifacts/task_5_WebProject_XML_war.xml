@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="task-5-WebProject-XML:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="task05.war">
+      <element id="artifact" artifact-name="task-5-WebProject-XML:war exploded" />
+    </root>
+  </artifact>
+</component>
