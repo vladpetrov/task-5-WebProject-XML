@@ -13,9 +13,7 @@ import java.util.List;
 
 import static org.junit.Assert.*;
 
-/**
- * Created by higgs on 05.05.15.
- */
+
 @Ignore
 public class DaoTest {
 

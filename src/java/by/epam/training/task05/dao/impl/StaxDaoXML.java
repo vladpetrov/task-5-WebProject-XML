@@ -18,9 +18,7 @@ import java.io.FileNotFoundException;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by higgs on 03.05.15.
- */
+
 public class StaxDaoXML implements DaoXML {
     private static DaoXML instance = new StaxDaoXML();
 

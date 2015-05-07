@@ -13,9 +13,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 
-/**
- * Created by higgs on 03.05.15.
- */
+
 public class Controller extends HttpServlet {
     private static Logger log = Logger.getLogger(Controller.class);
 

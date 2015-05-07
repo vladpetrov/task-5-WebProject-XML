@@ -7,9 +7,7 @@ import by.epam.training.task05.util.JspPage;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- * Created by higgs on 03.05.15.
- */
+
 public class ErrorCommand implements Command {
 
     @Override

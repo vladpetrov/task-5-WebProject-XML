@@ -1,8 +1,6 @@
 package by.epam.training.task05.controller;
 
-/**
- * Created by higgs on 03.05.15.
- */
+
 public class ControllerException extends Exception {
 
     public ControllerException() {

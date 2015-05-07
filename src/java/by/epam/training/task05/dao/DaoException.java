@@ -1,8 +1,6 @@
 package by.epam.training.task05.dao;
 
-/**
- * Created by higgs on 03.05.15.
- */
+
 public class DaoException extends Exception {
 
     public DaoException() {

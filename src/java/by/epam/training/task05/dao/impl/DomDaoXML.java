@@ -18,9 +18,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by higgs on 03.05.15.
- */
+
 public class DomDaoXML implements DaoXML {
     private static DaoXML instance = new DomDaoXML();
 

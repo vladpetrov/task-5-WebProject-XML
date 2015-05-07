@@ -4,9 +4,7 @@ import by.epam.training.task05.dao.impl.DomDaoXML;
 import by.epam.training.task05.dao.impl.SaxDaoXML;
 import by.epam.training.task05.dao.impl.StaxDaoXML;
 
-/**
- * Created by higgs on 03.05.15.
- */
+
 public class DaoXMLFactory {
     private final static DaoXMLFactory instance = new DaoXMLFactory();
 
